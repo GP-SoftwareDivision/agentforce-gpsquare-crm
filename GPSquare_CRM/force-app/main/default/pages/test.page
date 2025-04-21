@@ -1,0 +1,6 @@
+<apex:page >
+  <iframe 
+    src="https://public.tableau.com/views/_17146260640670/sheet1?:embed=yes&amp;:display_count=yes&amp;:showVizHome=no" 
+    width="100%" height="800" frameborder="0" allowfullscreen="true">
+  </iframe>
+</apex:page>
